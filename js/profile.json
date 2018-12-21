@@ -1,17 +1,12 @@
 {
 	"personalInfo": {
 		"myimg": "image.jpg",
-		"fname": "Shubham",
-		"mname": "Parashram",
-		"lname": "Sawant",
-		"nick":"moghya",
-		"address": {
-			"list": ["Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
-				"'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
-			]
-		},
-		"email": "sawantshubham571@gmail.com",
-		"mob": "+919881464434"
+		"fname": "YanRu",
+		"mname": "",
+		"lname": "Jhou(周延儒)",
+		"nick":"RuChou",
+		"email": "joe04024@gmail.com",
+		"mob": "+886975791527"
 	},
 	"educations": [
 		{
@@ -583,7 +578,7 @@
 			"link":"https://github.com/moghya/toGithub"
 		}
 	],
-	"summary": "Hi, I’m Shubham. I believe in Maths. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions. Mathematics, Algorithms, Data Structures  and Machine Learning are my areas of Interest. I'm looking for an Internship where I can learn and grow by using my tech skills and make this world a better place.",
+	"summary": "I’m a CS major student in National Tsing-Hua University,(NTHU). My goal is to be a multidisciplined expert. Extensive learning in engineer- ing, management, research, leadership, and problem solving. My engi- neering forte is software engineering, development process, and quality assurance. Expert at analyzing and solving the most complex problems. Self-motivated,professional and capable of working independently or as part of a team.",
 	"profileLinks": [
 		{
 			"name": "Facebook",
@@ -704,5 +699,5 @@
 		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
 		"Tabs are better than spaces."
 	],
-	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm working as Software Engineer at <a href='http://media.net'>Media.Net. <strike>studying B.Tech Information Technology  at Walchand College of Engineering Sangli</strike>. I do Web development, Machine Learning and Computer Algorithms.I overwhelmingly like C++, Python and Javascript :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
+	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm applying for master degree in Computer Science and Software Engineering as Software Engineer at <a href='http://media.net'>Media.Net. <strike>studying B.Tech Information Technology  at Walchand College of Engineering Sangli</strike>. I do Web development, Machine Learning and Computer Algorithms.I overwhelmingly like C++, Python and Javascript :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
 }

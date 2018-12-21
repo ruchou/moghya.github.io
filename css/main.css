@@ -147,7 +147,7 @@ object{
 
 #image img{
 	width: 39.5%;
-	filter: grayscale(1);
+	/*filter: grayscale(1);*/
 	border: solid white 3px;
 	margin-left: 30.25%;
 	margin-right: 30.25%;
