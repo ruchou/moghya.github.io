@@ -19,242 +19,243 @@
 			"ranking": "Class: 3/41 (~7%) Department: 7/126 (~5%) ",
 			"courses": [
 				{
-					"courseCode": "3IT202",
-					"courseName": "Data Structures",
-					"courseScore": "9/10",
+					"courseCode": "CS 550000",
+					"courseName": "Computer Graphics",
+					"courseScore": "A+",
 					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT304",
-					"courseName": "Computer Algorithms",
-					"courseScore": "7/10",
-					"sn": 2
+					"courseCode": "CS 591300",
+					"courseName": "Academic Research Writing",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT331",
-					"courseName": "Machine Learning",
-					"courseScore": "10/10",
-					"sn": 3
+					"courseCode": "ISA 542300",
+					"courseName": "Software Quality Assurance",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3OE---",
-					"courseName": "Data Analytics",
-					"courseScore": "8/10",
-					"sn": 4
+					"courseCode": "CS 321201",
+					"courseName": "Introduction to Computer Networks",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT211",
-					"courseName": "Theory of Computation",
-					"courseScore": "8/10",
-					"sn": 5
+					"courseCode": "CS 342302",
+					"courseName": "Operating Systems",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT201",
-					"courseName": "Discrete Mathemactics",
-					"courseScore": "7/10",
-					"sn": 6
+					"courseCode": "CS 390200",
+					"courseName": "System Integration Implementation II",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT303",
-					"courseName": "Operating System",
-					"courseScore": "8/10",
-					"sn": 10
+					"courseCode": "CS 546000",
+					"courseName": "Software Project Management",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT322",
-					"courseName": "Unix Operating System",
-					"courseScore": "8/10",
-					"sn": 11
+					"courseCode": "ISA 536200",
+					"courseName": "Game theory and its Applications",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT301",
-					"courseName": "Database Engineering",
-					"courseScore": "9/10",
-					"sn": 12
+					"courseCode": "CS 135603",
+					"courseName": "Introduction to Programming (II)",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT321",
-					"courseName": "Advanced Database Engineering",
-					"courseScore": "9/10",
-					"sn": 13
+					"courseCode": "CS 210000",
+					"courseName": "Circuits and Electronics (I)",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT204",
-					"courseName": "Data Communication and Networking",
-					"courseScore": "7/10",
-					"sn": 15
+					"courseCode": "CS 340400",
+					"courseName": "Compiler Design",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT213",
-					"courseName": "Computer and Wireless Networks",
-					"courseScore": "6/10",
-					"sn": 16
+					"courseCode": "CS 390100",
+					"courseName": "System Integration Implementation I",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT263",
-					"courseName": "Computer and Wireless Networks Lab",
-					"courseScore": "8/10",
-					"sn": 34
+					"courseCode": "CS 423300",
+					"courseName": "Network Programming",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT212",
-					"courseName": "Computer Organization and Architechture",
-					"courseScore": "7/10",
-					"sn": 18
+					"courseCode": "CS 446100",
+					"courseName": "Software Engineering\t",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT372",
-					"courseName": "Parallel Programming Lab",
-					"courseScore": "10/10",
-					"sn": 32
+					"courseCode": "CS 135503",
+					"courseName": "Introduction to Programming (I)",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT324",
-					"courseName": "Information Storage and Management",
-					"courseScore": "6/10",
-					"sn": 21
-
-				},
-				{
-					"courseCode": "3MA204",
+					"courseCode": "CS 233401",
 					"courseName": "Linear Algebra",
-					"courseScore": "7/10",
-					"sn": 7
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3MA215",
-					"courseName": "Statistics and Fuzzy Systems",
-					"courseScore": "6/10",
-					"sn": 8
+					"courseCode": "CS 312000",
+					"courseName": "Introduction of Integrated Circuit Design",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT252",
-					"courseName": "Data Structures Lab",
-					"courseScore": "10/10",
-					"sn": 29
+					"courseCode": "CS 340400",
+					"courseName": "Scientific Computing",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT203",
-					"courseName": "Processor Architechture",
-					"courseScore": "7/10",
-					"sn": 17
-
-
-				},
-				{
-					"courseCode": "3IT281",
-					"courseName": "Mini Project - I",
-					"courseScore": "10/10",
-					"sn": 22
+					"courseCode": "CS 431102",
+					"courseName": "Design and Analysis of Algorithms",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT214",
-					"courseName": "System Programming",
-					"courseScore": "7/10",
-					"sn": 19
+					"courseCode": "CS 210201",
+					"courseName": "Digital Logic Design",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT255",
-					"courseName": "Programming Lab - I (C++)",
-					"courseScore": "10/10",
-					"sn": 26
+					"courseCode": "CS 241002",
+					"courseName": "Software Studio",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT352",
-					"courseName": "Web Technology Lab",
-					"courseScore": "9/10",
-					"sn": 33
+					"courseCode": "CS 333201",
+					"courseName": "Probability",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT342",
-					"courseName": "Mini Project - IV",
-					"courseScore": "10/10",
-					"sn": 25
+					"courseCode": "CS 410001",
+					"courseName": "Computer Architecture",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT341",
-					"courseName": "Mini-Project - III",
-					"courseScore": "10/10",
-					"sn": 24
+					"courseCode": "CS 135702",
+					"courseName": "Intro. to Computer Systems & Applications",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT302",
-					"courseName": "Software Engineering Design",
-					"courseScore": "7/10",
-					"sn": 20
+					"courseCode": "CS 210402",
+					"courseName": "Hardware Design and Lab.",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT371",
-					"courseName": "Unix Operating System Lab",
-					"courseScore": "10/10",
-					"sn": 30
+					"courseCode": "CS 233601",
+					"courseName": "Discrete Mathematics",
+					"courseScore": "B",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT282",
-					"courseName": "Mini Project - II",
-					"courseScore": "10/10",
-					"sn": 23
+					"courseCode": "CS 235102",
+					"courseName": "Data Structures",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT265",
-					"courseName": "Programming Lab - II (Java)",
-					"courseScore": "10/10",
-					"sn": 27
+					"courseCode": "CS 333401",
+					"courseName": "Engineering Mathematics",
+					"courseScore": "A+",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT312",
-					"courseName": "Cloud Computing",
-					"courseScore": "7/10",
-					"sn": 14
+					"courseCode": "CS 125000",
+					"courseName": "Introduction to Data Structure",
+					"courseScore": "B",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT323",
-					"courseName": "Information Theory",
-					"courseScore": "8/10",
-					"sn": 9
+					"courseCode": "MATH 102001",
+					"courseName": "Calculus II",
+					"courseScore": "A-",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "2IT253",
-					"courseName": "Processor Architechture Lab",
-					"courseScore": "10/10",
-					"sn": 28
+					"courseCode": "PHYS 114401",
+					"courseName": "General Physics A (II)",
+					"courseScore": "A+",
+					"sn": 1
+
+				},
+
+				{
+					"courseCode": "ESS 202002",
+					"courseName": "Programming Languages",
+					"courseScore": "A+",
+					"sn": 1
+
+				},
+
+				{
+					"courseCode": "MATH 101001",
+					"courseName": "Calculus I",
+					"courseScore": "A",
+					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT351",
-					"courseName": "Database Engineering Lab",
-					"courseScore": "10/10",
-					"sn": 31
+					"courseCode": "PHYS 113401",
+					"courseName": "General Physics A (I)",
+					"courseScore": "A-",
+					"sn": 1
 
 				}
 			]
