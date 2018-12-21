@@ -106,7 +106,7 @@ var profile;
 	swal(
 		{
 			title:"helloWorld!!!",
-			text:"Hello visitor, you have landed upon little webspace of moghya.",
+			text:"Hello visitor, you have landed upon little Website of YanRu-Jhou.",
 			confirmButtonColor:"#1f1f1f"
 		}
 	);

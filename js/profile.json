@@ -525,66 +525,30 @@
 			"link":"https://github.com/moghya/toGithub"
 		}
 	],
-	"summary": "I’m a CS major student in National Tsing-Hua University,(NTHU). My goal is to be a multidisciplined expert. Extensive learning in engineer- ing, management, research, leadership, and problem solving. My engi- neering forte is software engineering, development process, and quality assurance. Expert at analyzing and solving the most complex problems. Self-motivated,professional and capable of working independently or as part of a team.",
+	"summary": "I just graduate fromNational Tsing-Hua University,(NTHU), in Computer Science. My goal is to be a multi-disciplined expert. Extensive learning in engineering, management, research, leadership, and problem solving. My engineering forte is software engineering, development process, and quality assurance. Expert at analyzing and solving the most complex problems. Self-motivated,professional and capable of working independently or as part of a team.",
 	"profileLinks": [
 		{
 			"name": "Facebook",
 			"icon": "facebook.svg",
-			"link": "https://www.facebook.com/moghya",
+			"link": "https://www.facebook.com/ru.chou.9",
 			"sn":9
 		},
 		{
 			"name": "Github",
 			"icon": "github.svg",
-			"link": "https://github.com/moghya",
+			"link": "https://github.com/ruchou",
 			"sn":1
 		},
 		{
 			"name": "LinkedIn",
 			"icon": "linkedin.svg",
-			"link": "https://www.linkedin.com/in/shubham-sawant-67074a86/",
+			"link": "https://www.linkedin.com/in/%E5%BB%B6%E5%84%92-%E5%91%A8-1b455b105/",
 			"sn":2
 		},
 		{
-			"name": "Codeforces",
-			"icon": "codeforces.svg",
-			"link": "http://codeforces.com/profile/sawant",
-			"sn":3
-		},
-		{
-			"name": "Codechef",
-			"icon": "codechef.png",
-			"link": "https://www.codechef.com/users/moghya",
-			"sn":4
-		},
-		{
-			"name": "Hackerrank",
-			"icon": "hackerrank.svg",
-			"link": "https://www.hackerrank.com/moghya",
-			"sn":5
-		},
-		{
-			"name": "Hackerearth",
-			"icon": "hackerearth.png",
-			"link": "https://www.hackerearth.com/@moghya",
-			"sn":6
-		},
-		{
-			"name": "Medium",
-			"icon": "medium.svg",
-			"link": "https://medium.com/howcatcancode",
-			"sn":7
-		},	
-		{
-			"name": "Quora",
-			"icon": "quora.svg",
-			"link": "https://www.quora.com/profile/Shubham-Sawant-5",
-			"sn":8
-		},	
-		{
 			"name": "Twitter",
 			"icon": "twitter.svg",
-			"link": "https://twitter.com/moghya",
+			"link": "https://twitter.com/rrenchen",
 			"sn":10
 		}
 	],
@@ -630,13 +594,13 @@
 			"sn":8
 		},
 		{
-			"name":"Trekking",
-			"icon":"trek.svg",
+			"name":"Travel",
+			"icon":"airplane.svg",
 			"sn":9
 		},
 		{
-			"name":"Camping",
-			"icon":"tent.svg",
+			"name":"Watch",
+			"icon":"watch.svg",
 			"sn":10
 		}
 
@@ -646,5 +610,7 @@
 		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
 		"Tabs are better than spaces."
 	],
-	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm applying for master degree in Computer Science and Software Engineering as Software Engineer at <a href='http://media.net'>Media.Net. <strike>studying B.Tech Information Technology  at Walchand College of Engineering Sangli</strike>. I do Web development, Machine Learning and Computer Algorithms.I overwhelmingly like C++, Python and Javascript :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
+	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently, I am applying for master degree in Computer Science and Software Engineering in 2019 fall. These are the schools I applied: <ol> <li>CMU ECE Software Engineering <li>UIUC MCS<li>Gatech CyberSecurity, CS <li>UMich CSE<li>UCLA CS<li>University of Wisconsin--Madison<li>UCSD CSE<li>USC CS(General, Software Engineering)<li>RICE MCS<li>UCI MSSE</ol></p>"
+
+
 }
