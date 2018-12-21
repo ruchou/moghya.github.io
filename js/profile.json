@@ -11,12 +11,12 @@
 	"educations": [
 		{
 
-			"periodStart": "July 2014",
-			"periodEnd": "May 2018",
-			"course": "B.Tech Information Technology",
-			"score": "7.59 CGPA",
-			"inst": "Walchand College of Engineering, Sangli",
-			"board": "Shivaji University",
+			"periodStart": "Sep 2014",
+			"periodEnd": "Jun 2018",
+			"course": "National Tsing Hua University (NTHU)",
+			"score": "4.09/4.3 ",
+			"inst": "Department of Computer Science",
+			"ranking": "Class: 3/41 (~7%) Department: 7/126 (~5%) ",
 			"courses": [
 				{
 					"courseCode": "3IT202",
@@ -258,63 +258,9 @@
 
 				}
 			]
-		},
-		{
-
-			"periodStart": "April 2013",
-			"periodEnd": "May 2014",
-			"course": "All India Senior School Examination",
-			"score": "89.4%",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
-			"courses": [{
-					"courseCode": "041",
-					"courseName": "Mathemactics",
-					"courseScore": "86/100",
-					"sn": 1
-				},
-				{
-					"courseCode": "042",
-					"courseName": "Physics",
-					"courseScore": "87/100",
-					"sn": 2
-				},
-				{
-					"courseCode": "043",
-					"courseName": "Chemistry",
-					"courseScore": "86/100",
-					"sn": 3
-				},
-				{
-					"courseCode": "083",
-					"courseName": "Computer Science",
-					"courseScore": "94/100",
-					"sn": 4
-				}
-			]
-		},
-		{
-
-			"periodStart": "April 2011",
-			"periodEnd": "May 2012",
-			"course": "All India Secondary School Examination",
-			"score": "10.00 CGPA",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
-			"courses": [{
-					"courseCode": "041",
-					"courseName": "Mathemactics",
-					"courseScore": "10/10",
-					"sn": 1
-				},
-				{
-					"courseCode": "086",
-					"courseName": "Science",
-					"courseScore": "10/10",
-					"sn": 2
-				}
-			]
 		}
+
+
 	],
 	"skills": [
 		{
