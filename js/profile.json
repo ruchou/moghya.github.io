@@ -442,7 +442,7 @@
 			"name": "Facebook",
 			"icon": "facebook.svg",
 			"link": "https://www.facebook.com/ru.chou.9",
-			"sn":9
+			"sn":3
 		},
 		{
 			"name": "Github",
@@ -460,8 +460,15 @@
 			"name": "Twitter",
 			"icon": "twitter.svg",
 			"link": "https://twitter.com/rrenchen",
+			"sn":4
+		},
+		{
+			"name": "CV",
+			"icon": "cv.svg",
+			"link": "files/cv.pdf",
 			"sn":10
 		}
+
 	],
 	"likes":[
 		{
